@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github-readme-stats](https://github-readme-stats-tan-delta-38.vercel.app/api/?username=S3M001&show_icons=true&locale=ja&commits_year=2025)
+![github-readme-stats](https://github-readme-stats-tan-delta-38.vercel.app/api/?username=S3M001&show_icons=true&locale=ja)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S3M001&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats-tan-delta-38.vercel.app/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
