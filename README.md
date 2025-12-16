@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats-tan-delta-38.vercel.app/api/top-langs/?username=S3M001&size_weight=0.5&count_weight=0.5&locale=ja)
 
-[![Harlok's WakaTime stats](https://github-readme-stats-tan-delta-38.vercel.app/api/wakatime?username=S3M001)](https://github.com/S3M001/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-tan-delta-38.vercel.app/api/S3M001?username=S3M001)](https://github.com/S3M001/github-readme-stats)
 
 ## Skills
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
