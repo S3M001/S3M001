@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![github-readme-stats](https://github-readme-stats-clone-snq2001.vercel.app/api/?username=S3M001)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
   ![github-readme-stats](https://github-readme-stats-clone-snq2001.vercel.app/api/?username=S3M001)
