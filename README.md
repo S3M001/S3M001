@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Skills
+
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, VS Code
+
+- ## Projects
+
+### [Project Name](https://github.com/username/project)
+Description of the project. What it does, main features, and technologies used.
+
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/username/)
+- [Twitter](https://twitter.com/username)
+- [Personal Website](https://username.github.io)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=S3M001&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=S3M001&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=S3M001&theme=juicyfresh&no-bg=true" />
