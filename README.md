@@ -12,13 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github-readme-stats](https://github-readme-stats-tan-delta-38.vercel.app/api/?username=S3M001)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-  ![github-readme-stats](https://github-readme-stats-clone-snq2001.vercel.app/api/?username=S3M001)
+  ![github-readme-stats](https://github-readme-stats-tan-delta-38.vercel.app/api/?username=S3M001)
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  ![github-readme-stats](https://github-readme-stats-tan-delta-38.vercel.app/api/?username=S3M001)
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=S3M001&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
