@@ -35,5 +35,3 @@ Description of the project. What it does, main features, and technologies used.
 - [Qitta](https://www.linkedin.com/in/username/)
 - [X](https://twitter.com/username)
 
-
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
