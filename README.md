@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/S3M001/github-readme-stats">
   <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats-tan-delta-38.vercel.app/api/?username=S3M001&show_icons=true&locale=ja)" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/S3M001/convoychat">
   <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats-tan-delta-38.vercel.app/api/top-langs/?username=S3M001&size_weight=0.5&count_weight=0.5&locale=ja)" />
 </a>
 
