@@ -31,6 +31,6 @@ Description of the project. What it does, main features, and technologies used.
 
 ## Connect with me
 
-- [Qitta](https://www.linkedin.com/in/username/)
-- [X](https://twitter.com/username)
+- [Qitta](https://qiita.com/so-ta55)
+- [X](https://x.com/morengineer0?s=11)
 
